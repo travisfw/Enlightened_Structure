@@ -40,10 +40,10 @@ Trust Exchange
     post '/' => 'ratings#create'  
         # POST params: 
         # { 
-        #    :entity => entity_name,        # eg google.com
-        #    :category => category_name,    # eg integrity
-        #    :rating => [0..1]              # eg 0.77
-        #    :gpg_key => users_gpg_key      # eg 'GiBDv2vMARBACPHw...'
+        #    :entity => entity_name,            # eg google.com
+        #    :category => category_name,        # eg integrity
+        #    :rating => [0..1]                  # eg 0.77
+        #    :public_key => users_public_key    # eg 'GiBDv2vMARBACPHw...'
         # } 
 
     get  '/:key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
