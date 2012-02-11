@@ -43,7 +43,7 @@ Trust Exchange
         #    :entity => entity_name,            # eg google.com
         #    :category => category_name,        # eg integrity
         #    :rating => [0..1]                  # eg 0.77
-        #    :public_key => users_public_key    # eg 'GiBDv2vMARBACPHw...'
+        #    :source => source_domain           # eg jacksenechal.com
         # } 
 
     get  '/:key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
