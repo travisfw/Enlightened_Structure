@@ -1,4 +1,6 @@
 ---
+title: Home
+author: Harlan Knight Wood
 layout: default
 ---
 
