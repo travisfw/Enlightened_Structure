@@ -20,9 +20,9 @@ GraphEdge
 ---------
 
     post '/' => 'edges#create'    
-        #  format: json|xml|yaml
+        #  format: json
         #  POST params: 
-        #    { :content => arbitrary_node_sentence }
+        #    { :content => arbitrary_data_structure_of_hashes }
         #    
         #  eg: 
         #    { :content => 
@@ -42,12 +42,12 @@ NodeSentences
     post '/' => 'sentences#create'    
         #  format: json|xml|yaml
         #  POST params: 
-        #    { :content => arbitrary_data_structure }
+        #    { :content => arbitrary_data_structure_of_values }
         #    
         #  eg: 
         #    { :content => 
         #       "{
-        #           id: '123456',
+        #           url: 'http://icanhascheezburger.com/',
         #           name: 'LOLCats Blog',
         #           categories: ['funny', 'cats', 'pictures']
         #        }"
