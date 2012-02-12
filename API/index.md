@@ -16,24 +16,21 @@ NodeMap
     get  '/:key' => 'nodes#show', :constraints => { :key => CONTENT_ADDRESS }
     get '/' => 'nodes#index'
 
-GraphEdge
----------
+BaseParadigm
+------------
 
     post '/' => 'edges#create'    
-        #  format: json
         #  POST params: 
-        #    { :content => arbitrary_data_structure_of_hashes }
-        #    
-        #  eg: 
-        #    { :content => 
-        #       "{
-        #           subject:   'sha512-262a544a...',
-        #           predicate: 'sha512-feeaceca...',
-        #           object:    'sha512-6b7697db...'
-        #        }"
+        #    { 
+        #      :subjects => subjects_sha512,
+        #      :predicates => predicates_sha512,
+        #      :objects => objects_sha512,
+        #      :authors => authors_sha512,
+        #      :assumptions => assumptions_sha512,
+        #      :patterns => patterns_sha512
         #    }
         
-    get  '/:key' => 'edges#show', :constraints => { :key => CONTENT_ADDRESS } 
+    get '/:key' => 'edges#show', :constraints => { :key => CONTENT_ADDRESS } 
     get '/' => 'edges#index'
 
 NodeSentences
