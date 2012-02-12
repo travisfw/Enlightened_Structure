@@ -9,15 +9,15 @@ Enlightened Structure APIs
 
 RESTful API, defined as Rails-style routes:
 
-NodeStore
----------
+NodeMap
+-------
 
     post '/' => 'nodes#create'    # POST params: { :content => content_blob }   # returns key
     get  '/:key' => 'nodes#show', :constraints => { :key => CONTENT_ADDRESS }
     get '/' => 'nodes#index'
 
 GraphEdge
--------------
+---------
 
     post '/' => 'edges#create'    
         #  format: json|xml|yaml
@@ -27,9 +27,9 @@ GraphEdge
         #  eg: 
         #    { :content => 
         #       "{
-        #           subject: 'sha512-262a544a03fe39e55a5d60353affc9c421501362d9a16b2d32d152d2a40976deee1bd0786a5ce40513e064d45cb8fbd42b3ca9b7bb8c849f7a38a95a8f85415a',
-        #           predicate: 'sha512-feeaceca3e72f3dec300bc28857374344508ec64f7fd54e5f90d13312c5fdc14acf8c5fd406d49ad6bf24d5a74132a61406f3574f583c5e7961e597da12e89b9',
-        #           object: 'sha512-6b7697db17971492fcc75774d3df34954ccf4037e603e2820e8542467304fc8221cf47593d1eb87e29cfd88332966e35ac49bc2b7f848a71683a22da251bc442'
+        #           subject:   'sha512-262a544a...',
+        #           predicate: 'sha512-feeaceca...',
+        #           object:    'sha512-6b7697db...'
         #        }"
         #    }
         
@@ -37,7 +37,7 @@ GraphEdge
     get '/' => 'edges#index'
 
 NodeSentences
--------
+-------------
 
     post '/' => 'sentences#create'    
         #  format: json|xml|yaml
