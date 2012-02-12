@@ -1,4 +1,4 @@
---- 
+---
 title: The Core Network
 author: Adam Apollo
 layout: post
