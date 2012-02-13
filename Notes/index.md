@@ -1,7 +1,7 @@
------
+---
 title: Notes
 layout: default
------
+---
 
 *Let's delete things from here as soon as we process them out into other pages.*
 
