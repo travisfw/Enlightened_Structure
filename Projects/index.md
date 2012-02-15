@@ -10,7 +10,7 @@ layout: default
 | WikiNodes                |                             |                           |                       |                             | &#x2713;                 | &#x2713;           |                             |
 | [ForkDiffMerge][]        |                             |                           |  &#x2713;             |  &#x2713;                   |                          |                    |                             |
 | [MPARCS][]               |                             |                           |  &#x2713;             |  &#x2713;                   |                          |                    |                             |
-| NoseSentences            |                             |  &#x2713;                 |                       |                             |                          |                    |                             |
+| NodeSentences            |                             |  &#x2713;                 |                       |                             |                          |                    |                             |
 | [Base Paradigm][]        |  &#x2713;                   |  &#x2713;                 |                       |                             |                          |                    |                             |
 | NodeMap                  |  &#x2713;                   |                           |                       |                             |                          |                    |                             |
 
