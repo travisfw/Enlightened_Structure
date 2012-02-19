@@ -2,6 +2,8 @@
 layout: default
 ---
 
+A mapping of project to the services they render:
+
 |                          | Node Stores                 | Node Relationships        | Node Differences      | Node Merging                | Node Visualization       | Node Navigation    | Trust Ratings               |
 |:-------------------------|:---------------------------:|:-------------------------:|:---------------------:|:---------------------------:|:------------------------:|:------------------:|:---------------------------:|
 | [The Trust Exchange][]   |                             |                           |                       |                             |                          |                    | &#x2713;                    |
