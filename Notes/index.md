@@ -5,6 +5,9 @@ layout: default
 
 *Let's delete things from here as soon as we process them out into other pages.*
 
+2012-02-13 phone conversation [harlan, jack]
+--------------------------------------------
+
 Create duplication freely - clone and duplicate things. The tools will handle merging, seeing
 things that are the same across the network or with trunks (chunks?) of sameness within the same
 network.
