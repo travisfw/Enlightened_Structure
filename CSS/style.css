@@ -191,7 +191,7 @@ div#controllers { z-index: 100; }
 		div#footer { border: 1px solid #c7ced1; margin-bottom: 35px; background:transparent url(/IMG/white_line.png) repeat-x; height: 45px;}
 			div#footer-content { border-left: 1px solid #ffffff; border-top: 1px solid #ffffff;}
 				ul#bottom-menu li { float: left; padding-top: 12px; padding-left: 22px;}
-					ul#bottom-menu li a { padding-right: 10px; color: #434343; text-transform: lowercase;}
+/*					ul#bottom-menu li a { padding-right: 10px; color: #434343; text-transform: lowercase;}*/
 				p#copyright {float: right; padding-top: 10px; padding-right: 15px; font-size: 11px;}
 
 /*------------------------------------------------*/
