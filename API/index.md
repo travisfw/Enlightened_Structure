@@ -19,9 +19,11 @@ NodeMap
 BaseParadigm
 ------------
 
-    post '/' => 'edges#create'
-        #  POST params:
-        #    {
+See also [baseparadigm.org][]
+
+    post '/' => 'edges#create'    
+        #  POST params: 
+        #    { 
         #      :subjects => subjects_sha512,
         #      :predicates => predicates_sha512,
         #      :objects => objects_sha512,
@@ -103,3 +105,6 @@ Trust Exchange
     # show ratings of an entity within a category
     get '/entities/:entity/categories/:category' => 'ratings#index'
 
+
+
+[baseparadigm.org]: http://baseparadigm.org/
