@@ -6,7 +6,7 @@ layout: post
 
 Software Zero is:
 
-  * [ForkDiffMerge][] with enough navigable data visualization to make sense of the trees of remixes in your communities of trust
+  * [ForkDiffMerge][] with enough navigable data visualization to make sense of the trees of remixes in your communities of trust.
  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
  * Composed of thin components which communicate over well-defined HTTP interfaces.
@@ -27,7 +27,7 @@ The parent collective has datavis / datanav of the viewer's trust networks' flow
 Dataviz / Datanav
 -----------------
 
- * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network. 
+ * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network
  * Radial node network interface
  * Navigate the node collections' radial node/edge interface
  * One node is central, surrounded by nodes of interest to the viewer -- "related" through topic, trust metrics, etc
