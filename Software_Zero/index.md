@@ -6,6 +6,7 @@ layout: post
 
 Software Zero is:
 
+  * [ForkDiffMerge][] with enough navigable data visualization to make sense of the trees of remixes in your communities of trust
  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
  * Composed of thin components which communicate over well-defined HTTP interfaces.
@@ -27,10 +28,10 @@ Dataviz / Datanav
 -----------------
 
  * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network. 
- * Navigate the node collection and related nodes.
- * Full screen / zoom into the content of a given node
- * One node is central.  
- * Radial node/edge interface
+ * Radial node network interface
+ * Navigate the node collections' radial node/edge interface
+ * One node is central, surrounded by nodes of interest to the viewer -- "related" through topic, trust metrics, etc
+ * When you click on a node, it zooms into full view (ie you are on that "page" or node), but navigation is still present around the edges, eg the network is present but compressed around the edges, or hints of the network are present
 
 Trust Filters
 -------------
@@ -51,3 +52,6 @@ BaseParadigm
 ============
 At a low level, everything rests on node stores and graph edges.
 
+
+
+[ForkDiffMerge]: /ForkDiffMerge
