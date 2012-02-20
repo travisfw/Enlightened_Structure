@@ -25,11 +25,12 @@ The parent collective has datavis / datanav of the viewer's trust networks' flow
 
 Dataviz / Datanav
 -----------------
-  * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network. 
-  * Navigate the node collection and related nodes.
-  * Full screen / zoom into the content of a given node
-  * One node is central.  
-  * Radial node/edge interface
+
+ * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network. 
+ * Navigate the node collection and related nodes.
+ * Full screen / zoom into the content of a given node
+ * One node is central.  
+ * Radial node/edge interface
 
 Trust Filters
 -------------
