@@ -6,9 +6,9 @@ layout: post
 
 Software Zero is:
 
-  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
-  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
-  * Composed of thin components which communicate over well-defined HTTP interfaces.
+ * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
+ * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
+ * Composed of thin components which communicate over well-defined HTTP interfaces.
 
 The MVP must be good enough that people want to use it, and keep coming back. 
 
