@@ -4,13 +4,12 @@ author: Harlan Knight Wood, Jack Senechal, Travis Wellman
 layout: post
 ---
 
-Software Zero is the enlightened tech platform in which to crowdsource all the other enlightened tech platform
+Software Zero is:
+  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
+  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
+  * Composed of thin components which communicate over well-defined HTTP interfaces.
 
-Is a foundation for the full systems.  We have in mind the full-blown vision, and we want to do steps towards that.
-
-Is good enough that people want to use it, and keep coming back.
-
-All of the service components talk to each other 
+The MVP must be good enough that people want to use it, and keep coming back. 
 
 Assumptions
 ===========
