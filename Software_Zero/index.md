@@ -4,7 +4,7 @@ author: Harlan Knight Wood, Jack Senechal, Travis Wellman
 layout: post
 ---
 
-Software Zero is:
+We are organizing all of our development efforts around the launching of "Software Zero" -- the minimum viable slice of massively parallel creative collaboration.  So what is Software Zero?
 
  * [ForkDiffMerge][] with enough navigable data visualization to make sense of the trees of remixes in your communities of trust.
  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
