@@ -50,8 +50,9 @@ Merging is an interactive process that happens on the client side, in the diff t
 
 BaseParadigm
 ============
-At a low level, everything rests on node stores and graph edges.
+At a low level, everything rests on node stores and graph edges.  See also [baseparadigm.org][].
 
 
 
 [ForkDiffMerge]: /ForkDiffMerge
+[baseparadigm.org]: http://baseparadigm.org/
