@@ -1,29 +1,20 @@
 ---
-title: Home
+title: Enlightened Structure
 author: Harlan Knight Wood
 layout: default
 ---
 
-Enlightened Structure: Free Culture Seeds
-=========================================
+## _A radically open toolkit for the collaboration singularity_
 
-Enlightened Structure is a set of Free Culture idea seeds &#8211; global
-infrastructure software projects for social good. All of the content on this site is
-reusable and remixable under a Creative Commons license.
-
-This is an open source startup!  You can [fork this site][] to add your ideas and projects.
 
 <div class="hr-ellipsis">&nbsp;</div>
 
-NodeMap
--------
+The Trust Exchange
+------------------
 
-Key/value storage for arbitrary blobs of binary or text data.
-
-NodeSentences
--------------
-
-Storage for subject/predicate/object triples -- or any other chain of nodes.
+A vision for a simple and powerful open platform for humanity to exchange its trust information, the
+Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open,
+globally distributed information network and API. &nbsp; [read more &raquo;](/Trust_Exchange)
 
 ForkDiffMerge
 -------------
@@ -33,32 +24,39 @@ collective intelligence to congregate around a project, while retaining the edit
 of every individual throughout the history of the collaboration. &nbsp; [read more
 &raquo;](/ForkDiffMerge)
 
-WikiNodes
----------
+Core Network
+------------
 
-Rich node network data visualization layer.
-
-NodeNav
--------
-
-Visual navigation of information, eventually in virtual reality.  For example, Adam Apollo's [Core
-Network][], a visual interface based on the geometry and physics of space-time.
-
-The Trust Exchange
-------------------
-
-A vision for a simple and powerful open platform for humanity to exchange its trust information, the
-Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open,
-globally distributed information network and API. &nbsp; [read more &raquo;](/Trust_Exchange)
+The Core Network functions like a multidimensional map, 
+with each user at the center of their own personal browser.  
+Through its organization of personal preferences and community interactions, 
+the system enables us to more clearly see how we are related to each other, 
+as well as how closely we are connected. &nbsp; [read more
+&raquo;](/Core_Network)
 
 <div class="hr-ellipsis">&nbsp;</div>
 
-Enlightened Structure Web Services APIs
----------------------------------------
+HTTP APIs
+---------
 
 The Enlightened Structure technology stack is being implemented as a set of RESTful web services
 APIs. *This is a work in progress, and these APIs are prone to change before their official
 release.* &nbsp; [read more &raquo;](/API)
 
+<div class="hr-ellipsis">&nbsp;</div>
+
+|                          | Node Stores                 | Node Relationships        | Node Differences      | Node Merging                | Node Visualization       | Node Navigation    | Trust Ratings               |
+|:-------------------------|:---------------------------:|:-------------------------:|:---------------------:|:---------------------------:|:------------------------:|:------------------:|:---------------------------:|
+| [Trust Exchange][]       |                             |                           |                       |                             |                          |                    | &#x2713;                    |
+| [Core Network][]         |                             |                           |                       |                             | &#x2713;                 | &#x2713;           |                             |
+| [ForkDiffMerge][]        |                             |                           |  &#x2713;             |  &#x2713;                   |                          |                    |                             |
+| [Base Paradigm][]        |  &#x2713;                   |  &#x2713;                 |                       |                             |                          |                    |                             |
+
+[Trust Exchange]: ../Trust_Exchange
+[Core Network]: ../Core_Network
+[Spaciousness]: http://spaciousness.org/
+[ForkDiffMerge]: ../ForkDiffMerge
+[MPARCS]: ../Massively_Parallel_Academic_Research_Collaboration_System
+[Base Paradigm]: http://baseparadigm.org/
 [Core Network]: /Core_Network
 [fork this site]: https://github.com/onesunone/Enlightened_Structure
