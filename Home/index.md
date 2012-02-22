@@ -45,6 +45,9 @@ release.* &nbsp; [read more &raquo;](/API)
 
 <div class="hr-ellipsis">&nbsp;</div>
 
+Project Matrix
+--------------
+
 |                          | Node Stores                 | Node Relationships        | Node Differences      | Node Merging                | Node Visualization       | Node Navigation    | Trust Ratings               |
 |:-------------------------|:---------------------------:|:-------------------------:|:---------------------:|:---------------------------:|:------------------------:|:------------------:|:---------------------------:|
 | [Trust Exchange][]       |                             |                           |                       |                             |                          |                    | &#x2713;                    |
