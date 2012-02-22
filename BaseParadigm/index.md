@@ -4,9 +4,6 @@ author: Travis Wellman, Harlan Knight Wood, Jack Senechal
 layout: post
 ---
 
-BaseParadigm
-============
-
 BaseParadigm defines a way to use the internet agnostic of physical hardware. This shift nulls
 borders defined by domain names, creating a commons and lowering the barriers to inclusion in
 digital culture.
