@@ -61,6 +61,14 @@ A vision for a simple and powerful open platform for humanity to exchange its tr
 Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open,
 globally distributed information network and API. &nbsp; [read more &raquo;](/Trust_Exchange)
 
+BaseParadigm
+------------
+
+All data in the Enlightened Structure stack is stored as graph edge documents, implemented on top
+of a content addressable object store. Links between documents are themselves edge documents.
+&nbsp; [read more &raquo;](/BaseParadigm)
+
+
 <div class="hr-ellipsis">&nbsp;</div>
 
 Enlightened Structure Web Services APIs
