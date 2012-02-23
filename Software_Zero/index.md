@@ -26,8 +26,8 @@ User can register (eg) nanotechdesertsolar.com as a NodeCollective --
 which in turn allows users to register nanotechdesertsolar.myname.com as a nanotechdesertsolar fork.  
 The parent collective has datavis / datanav of the viewer's trust networks' flowerings of relevant nodes.
 
-Dataviz / Datanav
------------------
+Data Visualization / Data Navigation
+====================================
 
  * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network
  * Radial node network interface
@@ -36,7 +36,7 @@ Dataviz / Datanav
  * When you click on a node, it zooms into full view (ie you are on that "page" or node), but navigation is still present around the edges, eg the network is present but compressed around the edges, or hints of the network are present
 
 Trust Filters
--------------
+=============
 
 Information in the data visualization is informed by users' trust ratings of authors and content. &nbsp; [read more &raquo;](/Trust_Exchange)
 
