@@ -6,7 +6,7 @@ layout: post
 
 We are organizing all of our development efforts around the launching of "Software Zero" -- the minimum viable slice of massively parallel creative collaboration.  So what is Software Zero?
 
- * [ForkDiffMerge][] with enough navigable data visualization to make sense of the trees of remixes in your communities of trust.
+ * Open, distributed creative collaboration systems, with enough navigable data visualization to make sense of the trees of remixes in your communities of trust.
  * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
  * Composed of thin components which communicate over well-defined HTTP interfaces.
