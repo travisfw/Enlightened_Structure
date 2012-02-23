@@ -40,17 +40,15 @@ Trust Filters
 
 Information in the data visualization is informed by users' trust ratings of authors and content. &nbsp; [read more &raquo;](/Trust_Exchange)
 
-Remixing
-========
+Remixing &amp; Merging Changes
+==============================
 
 Authors can drop in JavaScript snippet to make a fork button on their page, and show other available forks (through NodeCollective)
 
-MergeChanges
-============
-
 Users submits documents to compare, and a diff is displayed.
 
-Merging is an interactive process that happens on the client side, in the diff tool. The resulting document can be saved to the node store.
+Merging is an interactive process that happens on the client side, in the diff tool. The resulting document can be saved to the node store. &nbsp; [read more
+&raquo;](/ForkDiffMerge)
 
 BaseParadigm
 ============
