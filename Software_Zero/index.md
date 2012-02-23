@@ -38,7 +38,7 @@ Dataviz / Datanav
 Trust Filters
 -------------
 
-Information in the data visualization is informed by users' trust ratings of authors and content.
+Information in the data visualization is informed by users' trust ratings of authors and content. &nbsp; [read more &raquo;](/Trust_Exchange)
 
 Remixing
 ========
@@ -55,7 +55,7 @@ Merging is an interactive process that happens on the client side, in the diff t
 BaseParadigm
 ============
 
-At a low level, everything rests on node stores and graph edges.  [read more &raquo;](/BaseParadigm)
+At a low level, everything rests on node stores and graph edges. &nbsp; [read more &raquo;](/BaseParadigm)
 
 
 
