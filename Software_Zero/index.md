@@ -11,7 +11,7 @@ We are organizing all of our development efforts around the launching of "Softwa
  * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
  * Composed of thin components which communicate over well-defined HTTP interfaces.
 
-The MVP must be good enough that people want to use it, and keep coming back. 
+The MVP must be compelling: people want to use it, and keep coming back. 
 
 Assumptions
 ===========
