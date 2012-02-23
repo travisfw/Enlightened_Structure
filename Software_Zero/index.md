@@ -15,11 +15,13 @@ The MVP must be good enough that people want to use it, and keep coming back.
 
 Assumptions
 ===========
+
 Publishing
   : People publish their websites however they choose, eg Wordpress, Jekyll, wikis, etc.
 
 NodeCollective
 ==============
+
 User can register (eg) nanotechdesertsolar.com as a NodeCollective -- 
 which in turn allows users to register nanotechdesertsolar.myname.com as a nanotechdesertsolar fork.  
 The parent collective has datavis / datanav of the viewer's trust networks' flowerings of relevant nodes.
@@ -35,22 +37,25 @@ Dataviz / Datanav
 
 Trust Filters
 -------------
-User trust ratings of nodes (primarily including authors and content)
-Basic trust cone algorithms to apply the trust information in a meaningful way
+
+Information in the data visualization is informed by users' trust ratings of authors and content.
 
 Remixing
 ========
+
 Authors can drop in JavaScript snippet to make a fork button on their page, and show other available forks (through NodeCollective)
 
 MergeChanges
 ============
+
 Users submits documents to compare, and a diff is displayed.
 
 Merging is an interactive process that happens on the client side, in the diff tool. The resulting document can be saved to the node store.
 
 BaseParadigm
 ============
-At a low level, everything rests on node stores and graph edges.  See also [baseparadigm.org][].
+
+At a low level, everything rests on node stores and graph edges.  [read more &raquo;](/BaseParadigm)
 
 
 
