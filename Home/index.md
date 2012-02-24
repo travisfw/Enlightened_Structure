@@ -87,4 +87,4 @@ Project Matrix
 [MPARCS]: ../Massively_Parallel_Academic_Research_Collaboration_System
 [Base Paradigm]: http://baseparadigm.org/
 [Core Network]: /Core_Network
-[fork this site]: https://github.com/onesunone/Enlightened_Structure
+[fork this site]: https://github.com/REPLACEME/Enlightened_Structure
