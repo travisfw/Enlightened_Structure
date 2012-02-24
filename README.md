@@ -1,6 +1,6 @@
-This is the sourcecode that generates [enlightenedstructure.hkw7.org][].  To make your own version:
+This is the sourcecode that generates [enlightenedstructure-testing.hkw7.org][].  To make your own version:
 
-* Visit [github.com/onesunone/Enlightened_Structure][]
+* Visit [github.com/enlightenedstructure/Enlightened_Structure][]
 * Log into / create account on Github if necessary
 * Press the "Fork" button
 * Edit or add pages as desired
@@ -10,6 +10,6 @@ This is the sourcecode that generates [enlightenedstructure.hkw7.org][].  To mak
 
 
 
-[enlightenedstructure.hkw7.org]: http://enlightenedstructure.hkw7.org/
-[github.com/onesunone/Enlightened_Structure]: https://github.com/onesunone/Enlightened_Structure
+[enlightenedstructure-testing.hkw7.org]: http://enlightenedstructure-testing.hkw7.org/
+[github.com/enlightenedstructure/Enlightened_Structure]: https://github.com/enlightenedstructure/Enlightened_Structure
 [Github Pages]: http://pages.github.com/
