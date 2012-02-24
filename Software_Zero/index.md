@@ -22,9 +22,9 @@ Publishing
 NodeCollective
 ==============
 
-User can register (eg) nanotechdesertsolar.com as a NodeCollective -- 
-which in turn allows users to register nanotechdesertsolar.myname.com as a nanotechdesertsolar fork.  
-The parent collective has datavis / datanav of the viewer's trust networks' flowerings of relevant nodes.
+ * The domain owner can give their domain, e.g. nanotechdesertsolar.com, to the commons as a "node collective".
+ * This allows the user Steve to visit the nanotechdesertsolar.com node collective, and register his site, nanotechdesertsolar.steve77.com as a nanotechdesertsolar fork.         
+ * When a friend of Steve's visits nanotechdesertsolar.com, they see his fork prominently featured, as part of an interactive navigable data visualization of all nodes of interest, according to the specific users' filters, which are drawn from their trust network.
 
 Data Visualization / Data Navigation
 ====================================
