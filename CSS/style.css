@@ -71,6 +71,7 @@ sup, sub { height: 0; line-height: 1; position: relative; vertical-align: baseli
 sup { bottom: 0.8em; }
 sub { top: 0.3em; }
 dl { margin: 0 0 1.5em 0; }
+dt { margin: 1em 0 0 0; }
 dl dt { font-weight: bold; }
 dd  { margin-left: 0em; }
 blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
