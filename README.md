@@ -1,7 +1,6 @@
-This is the sourcecode that generates [enlightenedstructure.REPLACEME.com][]. To make your own
-version:
+This is the sourcecode that generates [enlightenedstructure.hkw7.org][].  To make your own version:
 
-* Visit [github.com/REPLACEME/Enlightened_Structure][]
+* Visit [github.com/onesunone/Enlightened_Structure][]
 * Log into / create account on Github if necessary
 * Press the "Fork" button
 * Edit or add pages as desired
@@ -19,6 +18,6 @@ version:
 
 
 
-[enlightenedstructure.REPLACEME.com]: http://enlightenedstructure.REPLACEME.com/
-[github.com/REPLACEME/Enlightened_Structure]: https://github.com/REPLACEME/Enlightened_Structure
+[enlightenedstructure.hkw7.org]: http://enlightenedstructure.hkw7.org/
+[github.com/onesunone/Enlightened_Structure]: https://github.com/onesunone/Enlightened_Structure
 [Github Pages]: http://pages.github.com/
