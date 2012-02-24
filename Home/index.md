@@ -80,10 +80,8 @@ Project Matrix
 | [ForkDiffMerge][]        |                             |                           |  &#x2713;             |  &#x2713;                   |                          |                    |                             |
 | [Base Paradigm][]        |  &#x2713;                   |  &#x2713;                 |                       |                             |                          |                    |                             |
 
-[Trust Exchange]: ../Trust_Exchange
-[Core Network]: ../Core_Network
-[Spaciousness]: http://spaciousness.org/
-[ForkDiffMerge]: ../ForkDiffMerge
-[MPARCS]: ../Massively_Parallel_Academic_Research_Collaboration_System
-[Base Paradigm]: http://baseparadigm.org/
+[Trust Exchange]: /Trust_Exchange
+[Core Network]: /Core_Network
+[ForkDiffMerge]: /ForkDiffMerge
+[Base Paradigm]: /BaseParadigm
 [Core Network]: /Core_Network
