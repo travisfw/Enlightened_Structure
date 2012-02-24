@@ -7,8 +7,11 @@ layout: default
 Enlightened Structure
 =====================
 
+<br />
+
 _A radically open toolkit for the collaboration singularity_
-------------------------------------------------------------
+
+<br />
 
 What problem does this project address?
   : A key issue with the architecture of the emergent trust landscape of the internet is silos of non-interoperable trust information, making it difficult for users to coalesce a cogent trust landscape.
