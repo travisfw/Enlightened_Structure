@@ -9,7 +9,7 @@ Enlightened Structure
 
 _A radically open toolkit for the collaboration singularity_
 
-What problem does this project address?
+What is the problem we are trying to solve?
   : A key issue with the architecture of the emergent trust landscape of the internet is silos of non-interoperable trust information, making it difficult for users to coalesce a cogent trust landscape.
   : Furthermore, current collaboration paradigms are limited – notably, it is difficult to collaborate with large numbers of people, especially when conflicting ideas are present.
 
@@ -21,7 +21,7 @@ What is the scope of this project?
   : The scope is creating the underlying frameworks that will enable those technologies to emerge. We have published APIs (in open collaborative forkable form) for trust networks and creative collaboration, and are delivering candidate components to fulfill the promise of those APIs.
 
 What development methodology is being used?
-  : We are fully immersed in open source collaboration ethos, using existing systems such as github, and bootstrapping on our own collaboration engine, creating our IP inside of the systems we are devloping.
+  : We are fully immersed in open source collaboration ethos, using existing systems such as github, and bootstrapping on our own collaboration engine, creating our IP inside of the systems we are developing.
 
 <div class="hr-ellipsis">&nbsp;</div>
 
