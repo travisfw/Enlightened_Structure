@@ -50,12 +50,43 @@ Users submits documents to compare, and a diff is displayed.
 Merging is an interactive process that happens on the client side, in the diff tool. The resulting document can be saved to the node store. &nbsp; [read more
 &raquo;](/ForkDiffMerge)
 
-BaseParadigm
-============
+Under the Hood
+==============
 
-At a low level, everything rests on node stores and graph edges. &nbsp; [read more &raquo;](/BaseParadigm)
+BaseParadigm
+------------
+
+At a low level, everything rests on the node stores and graph edges of [BaseParadigm][].
+
+
+Content Nodes 
+-------------
+
+  * Contain data that will be served to the users' web browser; for example, a video or the HTML of your home page
+  * Have "format" metadata attached, for example "html", "markdown", "jpg"
+
+Fragment Nodes
+--------------
+ 
+  * Contain data with no intrinsic "format"
+  * For example, storing the relationhip: "Jack Senechal" "is the author of" "https://gist.github.com/823686" creates (among others) a fragment node "Jack Senechal" (sha512:98ecee1de7...)
+  
+Graph Edges 
+-----------
+
+  * Rich "edges" connect the nodes, containing:
+    * Subject, predicate, object
+    * Authors, patterns, assumptions
+    
+Technologies under consideration
+--------------------------------
+
+  * [Riak][]: "An open source, highly scalable, fault-tolerant distributed database"
+  * [Bitcask][]: Riak's "Log-Structured Hash Table for Fast Key/Value Data"
 
 
 
 [ForkDiffMerge]: /ForkDiffMerge
-[baseparadigm.org]: http://baseparadigm.org/
+[BaseParadigm]: /BaseParadigm
+[Bitcask]: http://downloads.basho.com/papers/bitcask-intro.pdf
+[Riak]: http://labs.linkfluence.net/nosql/2011/03/07/moving_from_couchdb_to_riak.html
