@@ -74,9 +74,10 @@ Fragment Nodes
 Graph Edges 
 -----------
 
-* Rich "edges" connect the nodes, containing:
-  * Subject, predicate, object
-  * Authors, patterns, assumptions
+Rich "edges" connect the nodes, containing:
+
+* Subject, predicate, object
+* Authors, patterns, assumptions
   
 Technologies under consideration
 --------------------------------
