@@ -62,27 +62,27 @@ At a low level, everything rests on the node stores and graph edges of [BasePara
 Content Nodes 
 -------------
 
-  * Contain data that will be served to the users' web browser; for example, a video or the HTML of your home page
-  * Have "format" metadata attached, for example "html", "markdown", "jpg"
+* Contain data that will be served to the users' web browser; for example, a video or the HTML of your home page
+* Have "format" metadata attached, for example "html", "markdown", "jpg"
 
 Fragment Nodes
 --------------
- 
-  * Contain data with no intrinsic "format"
-  * For example, storing the relationhip: "Jack Senechal" "is the author of" "https://gist.github.com/823686" creates (among others) a fragment node "Jack Senechal" (sha512:98ecee1de7...)
-  
+
+* Contain data with no intrinsic "format"
+* For example, storing the relationhip: "Jack Senechal" "is the author of" "https://gist.github.com/823686" creates (among others) a fragment node "Jack Senechal" (sha512:98ecee1de7...)
+
 Graph Edges 
 -----------
 
-  * Rich "edges" connect the nodes, containing:
-    * Subject, predicate, object
-    * Authors, patterns, assumptions
-    
+* Rich "edges" connect the nodes, containing:
+  * Subject, predicate, object
+  * Authors, patterns, assumptions
+  
 Technologies under consideration
 --------------------------------
 
-  * [Riak][]: "An open source, highly scalable, fault-tolerant distributed database"
-  * [Bitcask][]: Riak's "Log-Structured Hash Table for Fast Key/Value Data"
+* [Riak][]: "An open source, highly scalable, fault-tolerant distributed database"
+* [Bitcask][]: Riak's "Log-Structured Hash Table for Fast Key/Value Data"
 
 
 
