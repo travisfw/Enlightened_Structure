@@ -4,90 +4,58 @@ author: Harlan Knight Wood, Jack Senechal, Travis Wellman
 layout: post
 ---
 
-We are organizing all of our development efforts around the launching of "Software Zero" -- the minimum viable slice of massively parallel creative collaboration.  So what is Software Zero?
+_Next generation distributed collaboration platform_
 
- * Open, distributed creative collaboration systems, with data visualization to effectively navigate the trees of remixes in your trust networks.
- * The enlightened technology platform in which to crowdsource all the other enlightened technology platforms.
- * A foundation for the full systems -- we have in mind the full-blown vision, and we want to do steps towards that.
- * Composed of thin components which communicate over well-defined HTTP interfaces.
+The Story 
+================================
 
-The MVP must be compelling: people want to use it, and keep coming back. 
+The mission of Enlightened Structure Software Zero is to create a platform for collective intelligence to congregate around a project, while retaining the edits and contributions of every author throughout the history of the collaboration.
+In the Enlightened Structure collaboration platform, contributors do not have to agree on a single version; each author can maintain their own latest version. This "branching" of creative works encourages a diversity of perspectives that can be exchanged and interwoven in a creative network of any scale. Authors can create unlimited branches, easily view differences between branches, and merge in changes from other versions and authors.
 
-Assumptions
-===========
-
-Publishing
-  : People publish their websites however they choose, eg Wordpress, Jekyll, wikis, etc.
-
-NodeCollective
-==============
-
- * The domain owner can give their domain, e.g. nanotechdesertsolar.com, to the commons as a "node collective".
- * This allows the user Steve to visit the nanotechdesertsolar.com node collective, and register his site, nanotechdesertsolar.steve77.com as a nanotechdesertsolar fork.         
- * When a friend of Steve's visits nanotechdesertsolar.com, they see his fork prominently featured, as part of an interactive navigable data visualization of all nodes of interest, according to the specific users' filters, which are drawn from their trust network.
-
-Data Visualization / Data Navigation
-====================================
-
- * View the node collection that is the intersection between this node collective (eg “nanotechdesertsolar”) and the viewer's trust network
- * Radial node network interface
- * Navigate the node collections' radial node/edge interface
- * One node is central, surrounded by nodes of interest to the viewer -- "related" through topic, trust metrics, etc
- * When you click on a node, it zooms into full view (ie you are on that "page" or node), but navigation is still present around the edges, eg the network is present but compressed around the edges, or hints of the network are present
-
-Trust Filters
-=============
-
-Information in the data visualization is informed by users' trust ratings of authors and content. &nbsp; [read more &raquo;](/Trust_Exchange)
-
-Remixing &amp; Merging Changes
-==============================
-
-Authors can drop in JavaScript snippet to make a fork button on their page, and show other available forks (through NodeCollective)
-
-Users submits documents to compare, and a diff is displayed.
-
-Merging is an interactive process that happens on the client side, in the diff tool. The resulting document can be saved to the node store. &nbsp; [read more
-&raquo;](/ForkDiffMerge)
-
-Under the Hood
-==============
-
-BaseParadigm
-------------
-
-At a low level, everything rests on the node stores and graph edges of [BaseParadigm][].
-
-
-Content Nodes 
--------------
-
-* Contain data that will be served to the users' web browser; for example, a video or the HTML of your home page
-* Have "format" metadata attached, for example "html", "markdown", "jpg"
-
-Fragment Nodes
---------------
-
-* Contain data with no intrinsic "format"
-* For example, storing the relationhip: "Jack Senechal" "is the author of" "https://gist.github.com/823686" creates (among others) a fragment node "Jack Senechal" (sha512:98ecee1de7...)
-
-Graph Edges 
------------
-
-Rich "edges" connect the nodes, containing:
-
-* Subject, predicate, object
-* Authors, patterns, assumptions
-  
-Technologies under consideration
+Acedemic Applications
 --------------------------------
 
-* [Riak][]: "An open source, highly scalable, fault-tolerant distributed database"
-* [Bitcask][]: Riak's "Log-Structured Hash Table for Fast Key/Value Data"
+A primary application of the Enlightened Structure technology is the Massively Parallel Academic Research System (MPARCS). As Wikipedia has opened the encyclopedia by leveraging the “wisdom of crowds”, so Enlightened Structure will open the cutting edges of human knowledge, as represented in academic research. Research papers, or even seeds of papers, placed into the public domain with appropriate supporting technology, will allow others to build on these works, while still preserving intellectual ownership of ideas through total transparency and traceability.
 
+Academic research builds upon other research. What if this could be done incrementally, as a living conversation? What if instead of having to wait for a whole “new” idea, a paper could be improved on incrementally, by anyone who had an improvement – minor or revolutionary? Then the world of research and knowledge advancement could become truly alive, constantly morphing, reorganizing, improving the human knowledge ecosystem.
 
+The technology involved is an extension of the “wiki” concept popularized by Wikipedia. But instead of trying to have a single, definitive version of each article, MPARCS allows each user to copy other users’ articles, for editing, combining, remixing.
 
-[ForkDiffMerge]: /ForkDiffMerge
-[BaseParadigm]: /BaseParadigm
-[Bitcask]: http://downloads.basho.com/papers/bitcask-intro.pdf
-[Riak]: http://labs.linkfluence.net/nosql/2011/03/07/moving_from_couchdb_to_riak.html
+Reputation and Content Ratings
+---------------------------------------------
+
+Ratings are an extremely important part of Enlightened Structure. Suppose an article on a physics simulation algorithm spawns versions created by thousands of interested users. When the original author wants to review the most interesting revisions, considering whether to incorporate any of the new ideas into their own latest update, they can turn to peer ratings as a starting place, to locate the most interesting content.
+
+A sophisticated ratings system will allow ratings at several levels: from the entry level, where any person can rate any article, up to the expert level, where articles deemed particularly “interesting” by the open ratings community can be assessed by credentialed experts in a given field. Users will also be able to rate other users, so that each user can create a personalized ratings matrix, where the ratings given to articles by users they trust will be weighted more significantly than those of users unknown to them.
+
+New Models of IP Ownership
+-----------------------------------------
+Enlightened Structure will leverage the same collective power as Wikipedia, while also allowing for individual ownership – each user can copy and edit articles that are in the public domain, but the original article will stay intact, allowing each contributor to receive full credit for their contribution. The system will allow users to see the complete history of any article, tracing its evolution through various authors, and providing a view of the differences between any given versions.
+
+Maximally Permissive Licensing
+---------------------------------------------
+
+Enlightened Structure will be released as free, open source software, utilizing maximally permissive licenses, allowing incorporation into free and commercial software without restriction. The intention is to create a standard platform, with no barriers to use or incorporation into other systems.
+
+Architectural Foundations
+-------------------------------------
+
+building simple, stable, long-term foundations for a new generation of information topologies 
+All of the technologies described rest on solid, distributed, ultra-scalable information foundations. Our data layer and our foundations are made to be shared with a rich ecosystem of current and forthcoming applications.
+
+Values & Practices
+--------------------------
+
+tech based on reputation, content addressable storage, distributability, openness, privacy, individual data ownership & local storage, and freedom
+
+Next Steps
+---------------
+
+Enlightened Structure Software Zero is a work in progress. It continues to be developed as a volunteer effort, supported by the team’s belief in the power of this technology. In order to meet our ambitious goal of releasing a private beta version in Q3 2012, we need your help! Your funding will go to support the implementation of these features:
+
+- Allow remixing of any page on any website (given appropriate licensing)
+- Compare two versions of a page to easily to see changes and additions
+- Merge all or part of the changes from another version into yours
+- Rate authors and content, resulting in a rich network of trust information
+- Visually discover trending and relevant remixes of content, based on popularity and trust metrics
+
