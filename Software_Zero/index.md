@@ -4,7 +4,7 @@ author: Harlan Knight Wood, Jack Senechal, Travis Wellman
 layout: post
 ---
 
-_ -- a next generation distributed collaboration platform -- _
+-- _a next generation distributed collaboration platform_ -- 
 
 The Story 
 ================================
