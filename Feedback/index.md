@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Feedback &amp; Inspiration
 author: 
 layout: post
 ---
