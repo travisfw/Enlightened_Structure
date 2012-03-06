@@ -1,5 +1,4 @@
 ---
-title: Enlightened Structure
 author: Harlan Knight Wood
 layout: default
 ---

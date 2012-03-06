@@ -54,7 +54,9 @@
 		{% if page.category %}
       &raquo; <a href="/{{page.category}}">{{page.category}}</a>
     {% endif %}
-		&raquo; {{page.title}}
+		{% if page.title %}
+		  &raquo; {{page.title}}
+    {% endif %}
   </div> <!-- end #breadcrumbs -->	
 
   <div id="content" class="clearfix">
