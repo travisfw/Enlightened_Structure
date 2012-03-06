@@ -48,6 +48,14 @@
   </div>
   <!-- end #header -->
 
+	<div id="breadcrumbs">
+		<a href="/">Enlightened Structure</a> 
+		{% if page.category %}
+      &raquo; <a href="/{{page.category}}">{{page.category}}</a>
+    {% endif %}
+		&raquo; {{page.title}}
+  </div> <!-- end #breadcrumbs -->	
+
   <div id="content" class="clearfix">
     <div id="content-area">
       <div class="entry clearfix">
