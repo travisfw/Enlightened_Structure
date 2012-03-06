@@ -51,13 +51,9 @@
 
 	<div id="breadcrumbs">
 		<a href="/">Enlightened Structure</a> 
-		{% if page.category %}
-      &raquo; <a href="/{{page.category}}">{{page.category}}</a>
-    {% endif %}
-		{% if page.title %}
-		  &raquo; {{page.title}}
-    {% endif %}
-  </div> <!-- end #breadcrumbs -->	
+		{% if page.category %} &raquo; {{page.category}} {% endif %}
+		{% if page.title %}    &raquo; {{page.title}}    {% endif %}
+  </div>
 
   <div id="content" class="clearfix">
     <div id="content-area">
