@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Adam Apollo
+author: Adam Apollo
 category: Team
 ---
 

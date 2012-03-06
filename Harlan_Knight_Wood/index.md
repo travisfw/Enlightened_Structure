@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Harlan Knight Wood
+author: Harlan Knight Wood
 category: Team
 ---
 
