@@ -1,5 +1,5 @@
 ---
-title: Core Network ::: Architecture
+title: "Core Network ::: Architecture"
 author: Harlan Knight Wood, Jack Senechal
 layout: post
 ---
