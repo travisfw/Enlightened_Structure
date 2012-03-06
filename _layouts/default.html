@@ -40,6 +40,8 @@
 
     <ul class="superfish nav clearfix sf-js-enabled">
       <li class="current_page_item"><a href="/Home">Home</a></li>
+      <li class="current_page_item"><a href="/Projects">Projects</a></li>
+      <li class="current_page_item"><a href="/Team">Team</a></li>
       <li class="cat-item cat-item-3"><a href="/Resources">Resources</a></li>
       <li class="page_item page-item-31"><a href="mailto:team@enlightenedstructure.org">Contact</a></li>
     </ul>
@@ -47,6 +49,14 @@
 
   </div>
   <!-- end #header -->
+
+	<div id="breadcrumbs">
+		<a href="/">Enlightened Structure</a> 
+		{% if page.category %}
+      &raquo; <a href="/{{page.category}}">{{page.category}}</a>
+    {% endif %}
+		&raquo; {{page.title}}
+  </div> <!-- end #breadcrumbs -->	
 
   <div id="content" class="clearfix">
     <div id="content-area">
@@ -73,6 +83,7 @@
         <h3 class="widgettitle">Recommended</h3>
         <ul>
           <li><a href="https://twitter.com/#!/proteuskor">Adam Scislowicz</a></li>
+          <li><a href="http://thisisjasonsilva.com/">Jason Silva</a></li>
           <li><a href="http://about.me/cocreatr">Bernd Nurnberger</a></li>
           <li><a href="http://cyber.law.harvard.edu/people/llessig">Lawrence Lessig</a></li>
           <li><a href="http://www.shilohboss.com/">Shiloh Boss</a></li>
