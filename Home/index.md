@@ -1,12 +1,11 @@
 ---
+title: A radically open toolkit for the collaboration singularity
 author: Harlan Knight Wood
 layout: default
 ---
 
 Enlightened Structure
 =====================
-
-_A radically open toolkit for the collaboration singularity_
 
 What is the problem we are trying to solve?
   : A key issue with the architecture of the emergent trust landscape of the internet is silos of non-interoperable trust information, making it difficult for users to coalesce a cogent trust landscape.
