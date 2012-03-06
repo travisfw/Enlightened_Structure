@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Harlan Knight Wood
+category: Team
 ---
 
 <a href="/Harlan_Knight_Wood">
