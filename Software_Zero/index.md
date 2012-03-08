@@ -9,8 +9,10 @@ layout: post
 The Story 
 ================================
 
-The mission of Enlightened Structure Software Zero is to create a platform for collective intelligence to congregate around a project, while retaining the edits and contributions of every author throughout the history of the collaboration.
-In the Enlightened Structure collaboration platform, contributors do not have to agree on a single version; each author can maintain their own latest version. This "branching" of creative works encourages a diversity of perspectives that can be exchanged and interwoven in a creative network of any scale. Authors can create unlimited branches, easily view differences between branches, and merge in changes from other versions and authors.
+The mission of Enlightened Structure Software Zero is to create a platform for swarm intelligence to collaborate on a project, while retaining the edits and contributions of every author throughout the history of the collaboration.
+Contributors do not have to agree on a single version; each author can maintain their own latest version. 
+This "branching" of creative works encourages a diversity of perspectives that can be exchanged and interwoven in a creative network of any scale.
+Authors can create unlimited branches, easily view differences between branches, and merge in changes from other versions and authors.
 
 Acedemic Applications
 --------------------------------
