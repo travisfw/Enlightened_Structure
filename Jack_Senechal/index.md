@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Jack Senechal
+author: Jack Senechal
 category: Team
 ---
 

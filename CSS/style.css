@@ -1,6 +1,5 @@
 /*
 Theme Name: -Free The IP-
-Theme URI: http://enlightenedstructure.org
 Version: 1.0
 Description: Developed by Adam Apollo
 Author: Jovan Thunder Design
@@ -107,6 +106,18 @@ div#controllers { z-index: 100; }
 		#header #search-form { float: right; width: 132px; background: url(/IMG/search.png) no-repeat; height: 33px; margin-top:7px; }
 			#header #searchinput { background: none; border: none; font-style: italic; color: #7d8990;  text-shadow: 1px 1px 1px #f6f7f8; padding-left: 12px; display: block; margin-top: 6px; }
 			div.description a.readmore { color: #ffffff; background: url(/IMG/featured-readmore-right.png) no-repeat top right; display: block; height: 34px; padding-right: 9px; line-height: 34px; float: right; font-style: italic; text-shadow: 1px 1px 1px #86949b; margin-top: 8px; }
+
+	#highlights_bg { background:url("/IMG/separator_bg.png") repeat-x scroll top left; padding-top: 1px; margin-top: -47px; }
+		#highlights { min-height: 283px; position: relative; background: url(/IMG/separator_bg.png) repeat-x center bottom; }
+
+	#highlights .one-third { background: url(/IMG/third-left-bg.png) no-repeat top left; float: left; width: 210px; position: relative; padding: 31px 34px 20px 76px; }
+	#highlights .first { background: none !important; }
+		#highlights img.icon { position: absolute; left: 23px; top: 31px; }
+		#highlights .one-third.first img.icon{ left: 18px; }
+		#highlights h3.title { font-size: 24px; margin-bottom: -4px; line-height: 1.3em; text-shadow: 1px 1px 1px #fff;}
+		#highlights h3.title a:hover { text-decoration: none; }
+		#highlights p.tagline { font-family: Georgia, serif; font-style: italic; color: #a0a7ac; margin-bottom: -8px;}
+
 
 	#content { background: url(/IMG/content_line.png) repeat-y 641px 0px; padding-bottom: 25px; }
 		#content.nudge { margin-top:-46px; }
