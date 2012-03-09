@@ -96,7 +96,7 @@ Next Steps
 Enlightened Structure Software Zero is a work in progress. It continues to be developed as a
 volunteer effort, supported by the team’s belief in the power of this technology. In order to meet
 our ambitious goal of releasing a private beta version in Q3 2012, we need your help! Your funding
-will go to support the implementation of these features:
+assistance via our Kickstarter campaign will go to support the implementation of these features:
 
 - Allow remixing of any page on any website (given appropriate licensing)
 - Compare two versions of a page to easily to see changes and additions
