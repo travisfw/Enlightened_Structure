@@ -1,20 +1,20 @@
-jQuery(document).ready(function() {
-	try {
-		jQuery('div.wpcf7 > form').ajaxForm({
-			beforeSubmit: wpcf7BeforeSubmit,
-			dataType: 'json',
-			success: wpcf7ProcessJson
-		});
-	} catch (e) {
-	}
-
-	try {
-		jQuery('div.wpcf7 > form').each(function(i, n) {
-			wpcf7ToggleSubmit(jQuery(n));
-		});
-	} catch (e) {
-	}
-});
+//jQuery(document).ready(function() {
+//	try {
+//		jQuery('div.wpcf7 > form').ajaxForm({
+//			beforeSubmit: wpcf7BeforeSubmit,
+//			dataType: 'json',
+//			success: wpcf7ProcessJson
+//		});
+//	} catch (e) {
+//	}
+//
+//	try {
+//		jQuery('div.wpcf7 > form').each(function(i, n) {
+//			wpcf7ToggleSubmit(jQuery(n));
+//		});
+//	} catch (e) {
+//	}
+//});
 
 // Exclusive checkbox
 function wpcf7ExclusiveCheckbox(elem) {
