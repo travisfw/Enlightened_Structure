@@ -18,11 +18,11 @@ The Software Zero launch rolls up the four main project areas of Enlightened Str
 collaboration](/ForkDiffMerge), [trust and reputation systems](/Trust_Exchange), [visual navigation
 of data](/Core_Network), and the [underlying data graph](/BaseParadigm) -- into one product release.
 We're calling it the "Minimal Awesome Product". That is, it's the basic elements of each of the
-Enlightened Structure project areas that make a great, useable, consumer-oriented web application to
+Enlightened Structure project areas that make a great, usable, consumer-oriented web application to
 get the ball rolling. This is just the beginning, but we want it to be a great beginning, with solid
 tech and features that are useful for *you*.
 
-Acedemic Applications
+Academic Applications
 ---------------------
 
 A primary application of the Enlightened Structure technology is the Massively Parallel Academic
@@ -94,7 +94,7 @@ Next Steps
 ----------
 
 Enlightened Structure Software Zero is a work in progress. It continues to be developed as a
-volunteer effort, supported by the team’s belief in the power of this technology. In order to meet
+volunteer effort, supported by the team's belief in the power of this technology. In order to meet
 our ambitious goal of releasing a private beta version in Q3 2012, we need your help! Your funding
 assistance via our Kickstarter campaign will go to support the implementation of these features:
 
