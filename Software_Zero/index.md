@@ -1,13 +1,10 @@
 ---
-title: Software Zero - Minimum Viable Product
-author: Harlan Knight Wood, Jack Senechal, Travis Wellman
+title: "Enlightened Structure Software Zero: Global-Scale Collaboration"
+author: Harlan Knight Wood, Jack Senechal, Travis Wellman, Adam Apollo
 layout: post
 ---
 
--- _A next generation distributed collaboration platform_ -- 
-
-The Story 
-================================
+<img width="185" height="185" src="/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png" class="thumbnail-post alignleft wp-post-image" />
 
 The mission of Enlightened Structure Software Zero is to create a platform for swarm intelligence to collaborate on a project, while retaining the edits and contributions of every author throughout the history of the collaboration.
 Contributors do not have to agree on a single version; each author can maintain their own latest version. 
@@ -42,13 +39,13 @@ Enlightened Structure will be released as free, open source software, utilizing 
 Architectural Foundations
 -------------------------------------
 
-building simple, stable, long-term foundations for a new generation of information topologies 
+Building simple, stable, long-term foundations for a new generation of information topologies 
 All of the technologies described rest on solid, distributed, ultra-scalable information foundations. Our data layer and our foundations are made to be shared with a rich ecosystem of current and forthcoming applications.
 
 Values & Practices
 --------------------------
 
-tech based on reputation, content addressable storage, distributability, openness, privacy, individual data ownership & local storage, and freedom
+Tech based on reputation, content addressable storage, distributability, openness, privacy, individual data ownership & local storage, and freedom.
 
 Next Steps
 ---------------
