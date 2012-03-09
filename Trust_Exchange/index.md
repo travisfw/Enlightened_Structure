@@ -4,7 +4,7 @@ author: Harlan Knight Wood
 layout: post
 ---
 
-<img src="../IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft" />
+<img src="/IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft" />
 
 _Superseding the Scarcity Economy_
 
