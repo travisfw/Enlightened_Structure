@@ -4,7 +4,7 @@ author: Adam Apollo
 layout: post
 ---
 
-<img src="../IMG/buckyball-185x185.png" class="thumbnail-post alignleft" />
+<img src="/IMG/buckyball-185x185.png" class="thumbnail-post alignleft" />
 
 _Geometric System Interface_
 
