@@ -1,2 +1,7 @@
-* http://soundcloud.com
-* http://liveingreatness.com/core-protocols/the-core-commitments/
+---
+title: "Remixables"
+author: Harlan Knight Wood
+layout: post
+---
+
+* http://soundcloud.com -- has many Creative Commons licensed works
