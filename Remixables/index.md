@@ -4,4 +4,4 @@ author: Harlan Knight Wood
 layout: post
 ---
 
-* http://soundcloud.com -- has many Creative Commons licensed works
+* [http://soundcloud.com](http://soundcloud.com) -- has many Creative Commons licensed works
