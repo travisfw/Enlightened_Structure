@@ -4,7 +4,7 @@ author: Harlan Knight Wood
 layout: post
 ---
 
-<img src="../IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png" class="thumbnail-post alignleft" />
+<img src="/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png" class="thumbnail-post alignleft" />
 
 _Large Scale Parallel Creative Collaboration_
 
