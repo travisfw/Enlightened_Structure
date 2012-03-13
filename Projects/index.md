@@ -40,8 +40,8 @@ a content addressable object store. Links between documents are themselves edge 
 HTTP APIs
 ---------
 
-The Enlightened Structure technology stack is being implemented as a set of RESTful web services
-APIs. *This is a work in progress, and these APIs are prone to change before their official
+The Enlightened Structure technology stack is being implemented as a set of lean HTTP
+APIs. *This is a work in progress, and these APIs are likely to change before their official
 release.* &nbsp; [read more &raquo;](/API)
 
 <div class="hr-ellipsis">&nbsp;</div>

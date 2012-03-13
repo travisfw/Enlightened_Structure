@@ -7,7 +7,7 @@ title: API -- Trust Exchange, NodeMap, Diff, Merge
 Enlightened Structure APIs
 ==========================
 
-RESTful API, defined as Rails-style routes:
+HTTP API, defined as Rails-style routes:
 
 NodeMap
 -------
