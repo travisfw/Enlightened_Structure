@@ -14,8 +14,8 @@ perspectives that can be exchanged and interwoven in a creative network of any s
 create unlimited branches, easily view differences between branches, and merge in changes from other
 versions and authors.
 
-The Software Zero launch rolls up the four main project areas of Enlightened Structure -- [creative
-collaboration](/ForkDiffMerge), [trust and reputation systems](/Trust_Exchange), [visual navigation
+The Software Zero launch rolls up the four main project areas of Enlightened Structure -- creative
+collaboration, [trust and reputation systems](/Trust_Exchange), [visual navigation
 of data](/Core_Network), and the [underlying data graph](/BaseParadigm) -- into one product release.
 We're calling it the "Minimal Awesome Product". That is, it's the basic elements of each of the
 Enlightened Structure project areas that make a great, usable, consumer-oriented web application to
@@ -84,19 +84,25 @@ the technologies described rest on solid, distributed, ultra-scalable informatio
 data layer and our foundations are made to be shared with a rich ecosystem of current and
 forthcoming applications.
 
-Values & Practices
-------------------
+We Value
+--------
 
-Tech based on reputation, content addressable storage, distributability, openness, privacy,
-individual data ownership & local storage, and freedom.
+* Openness
+* Privacy
+* Autonomy
+* Distributability
+* Content addressable storage
+* Individual data ownership
+* Local storage
+* Meritocracy
+* Freedom
 
 Next Steps
 ----------
 
 Enlightened Structure Software Zero is a work in progress. It continues to be developed as a
-volunteer effort, supported by the team's belief in the power of this technology. In order to meet
-our ambitious goal of releasing a private beta version in Q3 2012, we need your help! Your funding
-assistance via our Kickstarter campaign will go to support the implementation of these features:
+volunteer effort, supported by the team's belief in the power of this technology.
+The features we have in the pipeline for our 2012 releases:
 
 - Allow remixing of any page on any website (given appropriate licensing)
 - Compare two versions of a page to easily to see changes and additions
